@@ -1,0 +1,1 @@
+{"_id":{"$oid":"641be98bc6dcddc0f53299f8"},"user":{"$oid":"6412b328f4aa31c2940efa2f"},"items":[{"product":{"$oid":"6419251ccf83da743877d410"},"quantity":1,"subtotal":12}],"total":12,"__v":0}

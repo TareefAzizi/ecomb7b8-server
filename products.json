@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6412bc0785e060dcb519c42e"},"name":"test","price":3,"description":"test","quantity":2.0,"isActive":true,"__v":0}
+{"_id":{"$oid":"6417d27ad4e27bf33a838a21"},"name":"test","price":3,"description":"test","quantity":2.0,"isActive":true,"__v":0}
+{"_id":{"$oid":"6417d326f5e018ec6be3fb53"},"name":"test","price":3,"description":"test","quantity":2.0,"isActive":true,"__v":0}
+{"_id":{"$oid":"6419251ccf83da743877d410"},"name":"nasi lemak","price":12,"description":"too salty","quantity":10,"isActive":true,"__v":0}
